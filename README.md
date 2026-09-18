@@ -35,6 +35,34 @@
 
 ---
 
+## 🖼️ Examples
+
+<p align="center">
+  <img src="./examples/test-matrix/01-landscape-pines-cabin.png" width="32%" alt="Landscape with pines and cabin">
+  <img src="./examples/test-matrix/02-flowers-still-life.png" width="32%" alt="Flowers and vases still life">
+  <img src="./examples/test-matrix/03-couple-street-walk.png" width="32%" alt="Couple walking on a city street">
+</p>
+<p align="center">
+  <img src="./examples/test-matrix/04-classic-facade.png" width="32%" alt="Classic architectural facade">
+  <img src="./examples/test-matrix/05-yellow-work-truck.png" width="32%" alt="Yellow work truck">
+  <img src="./examples/test-matrix/06-coastal-harbor-boats.png" width="32%" alt="Coastal harbor with boats">
+</p>
+<p align="center">
+  <img src="./examples/test-matrix/07-golden-dog.png" width="32%" alt="Golden dog outdoors">
+  <img src="./examples/test-matrix/08-cafe-table-still-life.png" width="32%" alt="Cafe table still life">
+  <img src="./examples/test-matrix/09-city-rail-scene.png" width="32%" alt="Urban rail and city architecture">
+</p>
+
+<p align="center">
+  <sub>Landscape · Still Life · People · Architecture · Vehicle · Harbor · Animal · Everyday Objects · City</sub>
+</p>
+
+> These are finished outputs from the formal cross-subject Skill test. They are public gallery examples, not runtime reference images or style-conditioning assets.
+
+> Across varied subjects, source identity, scene relationships, the exact 50/50 folio layout, restrained handmade illustration, and generous paper space remain consistent.
+
+---
+
 ## 🚀 Quick Start
 
 ### 💻 Method 1 · Codex Skill
@@ -110,7 +138,7 @@ It does not repeat the reminder after that.
 
 Released under the [MIT License](./LICENSE).
 
-The Skill, production prompt, quality gate, evals, and related repository materials may be used, modified, and redistributed under the terms of the MIT License.
+The Skill, production prompt, quality gate, evals, and repository documentation may be used, modified, and redistributed under the terms of the MIT License. Example images may incorporate third-party source photography; rights in those underlying photographs remain with their respective rightsholders.
 
 ---
 

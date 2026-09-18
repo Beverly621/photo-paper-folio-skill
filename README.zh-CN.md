@@ -35,6 +35,34 @@
 
 ---
 
+## 🖼️ 示例
+
+<p align="center">
+  <img src="./examples/test-matrix/01-landscape-pines-cabin.png" width="32%" alt="松林与小屋风景">
+  <img src="./examples/test-matrix/02-flowers-still-life.png" width="32%" alt="花与花瓶静物">
+  <img src="./examples/test-matrix/03-couple-street-walk.png" width="32%" alt="街道上行走的两人">
+</p>
+<p align="center">
+  <img src="./examples/test-matrix/04-classic-facade.png" width="32%" alt="经典建筑立面">
+  <img src="./examples/test-matrix/05-yellow-work-truck.png" width="32%" alt="黄色工程车辆">
+  <img src="./examples/test-matrix/06-coastal-harbor-boats.png" width="32%" alt="海岸港湾与船只">
+</p>
+<p align="center">
+  <img src="./examples/test-matrix/07-golden-dog.png" width="32%" alt="户外金色犬只">
+  <img src="./examples/test-matrix/08-cafe-table-still-life.png" width="32%" alt="咖啡桌日常静物">
+  <img src="./examples/test-matrix/09-city-rail-scene.png" width="32%" alt="城市轨道与建筑">
+</p>
+
+<p align="center">
+  <sub>风景 · 静物 · 人物 · 建筑 · 车辆 · 港湾 · 动物 · 日常物件 · 城市场景</sub>
+</p>
+
+> 这些是正式跨题材 Skill 测试产生的最终成品，用于公开作品展示，不会在运行时作为参考图或隐藏的风格条件使用。
+
+> 面对不同题材时，原图身份、场景关系、精确 50/50 册页版式、克制的纸面手绘语言与充足留白都能保持一致。
+
+---
+
 ## 🚀 快速开始
 
 ### 💻 方法一 · Codex Skill
@@ -110,7 +138,7 @@ https://github.com/Beverly621/photo-paper-folio-skill
 
 本项目采用 [MIT License](./LICENSE)。
 
-Skill、production prompt、quality gate、evals 以及相关仓库材料均可在 MIT License 条款下使用、修改和重新分发。
+Skill、production prompt、quality gate、evals 与仓库文档均可在 MIT License 条款下使用、修改和重新分发。示例图片可能包含基于第三方原始摄影作品生成的内容，相关原始摄影作品的权利仍归其各自摄影师或权利人所有。
 
 ---
 
