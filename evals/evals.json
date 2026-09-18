@@ -1,0 +1,59 @@
+{
+  "skill_name": "photo-paper-folio",
+  "evals": [
+    {
+      "id": "default-photo",
+      "prompt": "Use $photo-paper-folio to transform this photograph.",
+      "expected_output": "Creates one independent 3:4 vertical folio page with an exact 50/50 horizontal split, preserves the actual uploaded photograph on top, and renders a small source-faithful handmade paper illustration below with generous negative space.",
+      "files": []
+    },
+    {
+      "id": "pet-fidelity",
+      "prompt": "Turn this pet photograph into a Photo Paper Folio page.",
+      "expected_output": "Preserves animal identity, count, pose, proportions, expression, distinctive markings, and surrounding relationships in the top photograph while keeping the lower handmade interpretation immediately recognizable.",
+      "files": []
+    },
+    {
+      "id": "people-fidelity",
+      "prompt": "Transform this photograph of people with $photo-paper-folio.",
+      "expected_output": "Preserves person count, facial identity when visible, body proportions, pose, clothing, important objects, and relationships; the lower illustration simplifies without substituting generic people.",
+      "files": []
+    },
+    {
+      "id": "vehicle-object-fidelity",
+      "prompt": "Create a paper folio from this vehicle or object photograph.",
+      "expected_output": "Keeps the defining silhouette, orientation, proportions, important parts, source-derived palette, and scene relationship while simplifying the lower illustration.",
+      "files": []
+    },
+    {
+      "id": "travel-architecture-scene",
+      "prompt": "Use $photo-paper-folio on this travel or architecture scene.",
+      "expected_output": "Preserves the recognizable place or structure in the top photograph and retains only the essential architectural or environmental cues needed for recognition in the lower illustration without turning the Skill into an architecture-only treatment.",
+      "files": []
+    },
+    {
+      "id": "negative-space-scale-regression",
+      "prompt": "Keep the lower paper illustration minimal and spacious.",
+      "expected_output": "The main lower illustration remains centered and approximately 10–20% of the bottom half, with large areas of rough white, warm off-white, pale natural, or book-cover-like paper left visibly empty.",
+      "files": []
+    },
+    {
+      "id": "palette-regression",
+      "prompt": "Keep the handmade illustration colors tied to the source photo.",
+      "expected_output": "Compresses source-derived color into no more than four main colors with controlled flat shapes, handmade linework, paper grain, and no excessive gradients or unrelated palette.",
+      "files": []
+    },
+    {
+      "id": "optional-typography",
+      "prompt": "Create the folio naturally; do not force text if it does not fit.",
+      "expected_output": "Typography remains optional. If used, it is short, readable, understated, and editorial; if not useful, the lower half remains clean without invented filler text.",
+      "files": []
+    },
+    {
+      "id": "multiple-photographs",
+      "prompt": "Use $photo-paper-folio to transform all of these photographs.",
+      "expected_output": "Creates exactly one independent folio page per uploaded photograph and prevents subject, identity, palette, object, location, architecture, and scene leakage across outputs.",
+      "files": []
+    }
+  ]
+}

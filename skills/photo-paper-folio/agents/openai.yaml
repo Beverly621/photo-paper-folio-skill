@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo Paper Folio"
+  short_description: "Turn photos into quiet 50/50 paper folio pages"
+  default_prompt: "Use $photo-paper-folio to transform each uploaded photo into an independent 3:4 paper folio page."
