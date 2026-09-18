@@ -21,7 +21,7 @@
 
 ## 👀 About
 
-**Photo Paper Folio** is a Codex image-generation Skill that turns each uploaded photo into an independent **3:4 folio page** with a strict **50/50 horizontal split**.
+**Photo Paper Folio** is a Codex image-generation Skill that turns each uploaded photograph into an independent **3:4 paper folio** — one subject, recorded twice: faithfully in photography above, and reinterpreted by hand on paper below.
 
 ⬆️ **Top · Photograph:** the original scene remains faithful, photographic, and immediately recognizable.
 

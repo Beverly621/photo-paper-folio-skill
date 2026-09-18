@@ -1,80 +1,141 @@
-GPT Image 2.5
+Create one independent high-end editorial poster for each uploaded photo. Do not combine multiple photos into a collage. Each photo must be processed and output as a separate poster.
 
-PROMPT
+OVERALL FORMAT
 
-Turn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo — never merge multiple structures or photos into one frame.
+Strict 3:4 vertical composition.
 
-FORMAT
+Divide the canvas horizontally into two exactly equal sections, with a precise 1:1 height ratio.
 
-3:4 vertical canvas. Split into two roughly equal zones — real architectural photo on top, printed reconstruction below — divided by one clean, sharp horizontal line.
+The top half occupies exactly 50% of the canvas.
 
-Do not stretch, warp, tilt, or unnaturally reposition the structure to force the proportions.
+The bottom half occupies exactly 50% of the canvas.
 
-TOP HALF — THE REAL SHOT
+The two sections should feel visually connected as one refined art publication cover.
 
-Preserve the original structure faithfully: same architecture, proportions, perspective, distinctive details, surrounding elements, natural light and shadow, and original color mood.
+TOP HALF — ORIGINAL PHOTOGRAPH
 
-Keep recognizable features such as:
+Preserve the original photograph as faithfully as possible.
 
-\* façade
-\* windows and arches
-\* towers or domes
-\* doors and structural details
-\* roofline
-\* surrounding landscape or street elements
+Keep the main composition, subjects, identity, facial features, body proportions, poses, expressions, clothing, objects, and spatial relationships unchanged.
 
-Add only a subtle high-end color grade and the faintest film grain. Do not redesign or reinterpret the architecture.
+Preserve the realistic photographic texture, natural lighting, shadows, atmosphere, and original color mood.
 
-BOTTOM HALF — THE PRINTED RECONSTRUCTION
+Apply only subtle, sophisticated editorial color grading, creating the feeling of a premium magazine photograph, contemporary art book, or high-end independent publication.
 
-Rebuild the same structure as an experimental printed architectural collage using:
+The image should remain photorealistic and authentic, never overly retouched or artificially stylized.
 
-torn photographic fragments + fixed-width ASCII character fields + photocopy halftone dots + architectural linework.
+If necessary to fit the 3:4 composition naturally, extend the sky, ground, walls, or surrounding environmental background.
 
-The structure must remain immediately recognizable.
+Background extension must feel seamless and photographic.
 
-\* Torn-edge photographic fragments preserve the most important architectural details.
-\* Brick, stone, glass, metal, shadows, windows, and surrounding textures gradually dissolve outward into ASCII characters, black halftone dots, fragmented print grain, and fine architectural drafting lines.
-\* Use thin technical construction lines to subtly trace the structure’s geometry.
-\* Let selected areas break apart into paper fibers and halftone fragments, creating the feeling that the building is emerging from an archival print.
-\* Keep the main silhouette strong and readable.
-\* Texture: rough white paper-fiber edges, subtle photocopy imperfections, slight print misregistration, faded ink, old-paper stains, a few restrained crop marks, and one small red calibration bar.
-\* Color: warm gray old-paper background + black ink + the structure’s original muted colors + a single restrained red accent.
-\* Never fully desaturate the structure.
+Never stretch, distort, reshape, replace, or alter the main subject.
 
-The structure should occupy roughly 60–88% of the frame width, scaled according to what reads best for the architecture.
+BOTTOM HALF — MINIMAL HAND-DRAWN PAPER ILLUSTRATION
 
-Leave 22–38% of the paper visibly untouched and empty, creating generous negative space so the poster feels like an archival architectural specimen rather than a packed digital screen.
+Extract the most recognizable visual elements from the original photograph and reinterpret them as a minimalist hand-drawn paper-cover illustration.
+
+Preserve:
+
+The most recognizable subject
+
+Essential silhouette and proportions
+
+Key pose or gesture
+
+Important objects
+
+The core narrative relationship between people and objects
+
+Highly simplify the image. Remove unnecessary details and retain only the visual information needed for immediate recognition.
+
+Use:
+
+Delicate, slightly imperfect hand-drawn lines
+
+A small number of bold, clearly defined acrylic-style flat color shapes
+
+Rough paper texture
+
+Visible handmade brush marks
+
+Slightly irregular, organic edges
+
+Subtle imperfections that make it feel genuinely handmade
+
+The main illustrated subject should be small, centered, and carefully composed, occupying approximately 10–20% of the bottom half.
+
+Leave a large amount of negative space around the illustration.
+
+The background should primarily resemble:
+
+Rough white paper
+
+Warm off-white paper
+
+Pale natural paper
+
+Minimal editorial book-cover stock
+
+Use only a few lines or small color shapes to suggest the surrounding environment.
+
+COLOR PALETTE
+
+Extract the dominant colors directly from the original photograph.
+
+Compress the palette into no more than 4 main colors.
+
+Keep the colors restrained, sophisticated, and harmonious.
+
+Use bold but controlled flat color blocks.
+
+Avoid excessive color variation.
+
+Preserve subtle paper grain and handmade brush texture.
+
+The illustration should visually feel like a simplified color interpretation of the photograph.
 
 TYPOGRAPHY
 
-Add one clean, readable fixed-width architectural title based on the structure:
+A small amount of simple typography may be included when appropriate.
 
-[STRUCTURE NAME]
+Possible elements:
 
-Below it include:
+A short title
 
-[CITY, COUNTRY]
-REC. STUDY 01
+Keyword
 
-Add one short observational caption related to the architecture, such as:
+Object name
 
-“A monumental study in geometry, time, and place.”
+Location
 
-Typography should feel like an old architectural archive mixed with an underground experimental design journal.
+Year
 
-A few loose ASCII glyphs may trace the outer silhouette or architectural edges as texture only — never use ASCII to invent windows, doors, structural details, or technical specifications.
+Number
 
-MOOD
+Short phrase
 
-Early digital systems × analog photocopy × architectural archive × underground zine × modern travel editorial.
+Text should be minimal, understated, and editorial.
 
-The structure should feel like it is surfacing from an old printed document — half photograph, half architectural drawing, half experimental print.
+Typography should naturally interact with the large areas of negative space and the small illustration, evoking:
 
-Sophisticated, minimal, tactile, intellectual, slightly mysterious, and highly collectible.
+Art book covers
 
-AVOID
+Independent publishing
 
-Solid black terminal backgrounds, dense walls of code, cyberpunk neon, excessive ASCII, distorted architecture, impossible geometry, invented architectural details, fake technical specifications, random symbols with no meaning, garbled text, excessive colors, brand logos, QR codes, watermarks, author credits, or tourist-poster clichés.
+Contemporary editorial design
 
-Priority: Preserve the structure’s identity and architectural accuracy first. The experimental halftone/ASCII treatment should enhance the architecture, not hide it.
+Thoughtful children's picture books
+
+Do not force text into the composition if it does not naturally fit the photograph.
+
+VISUAL LANGUAGE
+
+The final poster should feel:
+
+Quiet · Poetic · Refined · Minimal · Innocent · Relaxed · Artistic · Thoughtful · High-recognition · Premium
+
+The visual concept should be:
+
+“A small subject surrounded by a large amount of empty space.”
+
+The result should resemble a carefully designed independent art publication cover, rather than a commercial advertisement.
